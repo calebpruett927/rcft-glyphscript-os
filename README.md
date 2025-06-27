@@ -86,12 +86,9 @@ This app dynamically tests:
 
 ## 🔖 Citation
 
-This software is archived and citable via Zenodo:
+This software was created by Clement Paulus:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/10.5281/zenodo.1234567)
-
-> **Clement Paulus** (2025). *RCFT GlyphScript Operating System: Symbolic Collapse Execution Platform*. Zenodo. https://doi.org/10.5281/zenodo.1234567
-
+[![DOI](https://orcid.org/0009-0000-6069-8234)
 ---
 
 ## 🧠 About RCFT
